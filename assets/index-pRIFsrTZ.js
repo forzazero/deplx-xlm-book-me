@@ -1062,7 +1062,7 @@ For more information, see https://radix-ui.com/primitives/docs/components/${a.do
       </div>
     </div>
   </div>`;function H3(){const{questionId:t}=yr();return s.jsx(pa,{html:B3,worldMonitorQuestionId:(t==null?void 0:t.trim())||"Q.01"})}const P3=`<div class="ag-wrap">
-    <div class="ag-back" data-af="go-question">← Q.01 · NBA Finals</div>
+    <div class="ag-back" data-af="go-discover">← Agent Discover</div>
     <div class="ag-header">
       <div class="ag-av-big av-lo">Ω</div>
       <div class="ag-info">
